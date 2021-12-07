@@ -21,7 +21,7 @@ public class samefile extends javax.swing.JFrame
     public static String zoekfilestr;
     public static String argumenten[];
     static int aantalgevonden, aantalDoorzocht;
-    public static String versie = "2 dec  2021";
+    public static String versie = "7 dec  2021";
 
     private static boolean filesAreEqual(File files) throws IOException
     {
